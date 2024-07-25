@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumar-es&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumar-es" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumar-es&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumar-es" /> </p>*/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepkumar-es" alt="pradeepkumar-es" /></a> </p>
 
