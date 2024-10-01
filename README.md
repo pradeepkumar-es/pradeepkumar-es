@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://pradeepkumar-es.netlify.app/](https://pradeepkumar-es.netlify.app/)
-
-- 💬 Ask me about **front-end web development**
-
-- 📫 How to reach me **pradeepkumariitk22@gmail.com**
-
+<div align="center">
+  <P>👨‍💻 All of my projects are available at [https://pradeepkumar-es.netlify.app/](https://pradeepkumar-es.netlify.app/)</P>
+  <P>💬 Ask me about **front-end web development</P>
+  <P>📫 How to reach me **pradeepkumariitk22@gmail.com</P>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pradeepkumar-es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepkumar-es" height="30" width="40" /></a>
