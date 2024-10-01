@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
   <P>👨‍💻 All of my projects are available at [https://pradeepkumar-es.netlify.app/](https://pradeepkumar-es.netlify.app/)</P>
-  <P>💬 Ask me about **front-end web development</P>
-  <P>📫 How to reach me **pradeepkumariitk22@gmail.com</P>
+  <P>💬 Ask me about **front-end web development**</P>
+  <P>📫 How to reach me **pradeepkumariitk22@gmail.com**</P>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
