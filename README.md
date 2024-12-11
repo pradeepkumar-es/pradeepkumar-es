@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 <div align="left">
-  <P>👨‍💻 All of my projects are available at [https://pradeepkumar-es.netlify.app/](https://pradeepkumar-es.netlify.app/)</P>
+  <P>👨‍💻 All of my projects are available at [https://pradeepkumar-es.netlify.app/]</P>
   <P>💬 Ask me about **front-end web development**</P>
   <P>📫 How to reach me **pradeepkumariitk22@gmail.com**</P>
 </div>
